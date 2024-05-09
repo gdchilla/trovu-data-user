@@ -11,3 +11,4 @@ examplekeyword 2:
   - example
 qo 1: https://quichotte-buch.de/shop/search?titel=<titel>&mediaType=0
 bgi 1: https://www.buechergilde.de/suche/<suche>
+beo 1: https://beck-online.beck.de/Search?PAGENR=1&WORDS=<begriff>&RBSORT=Score&top=par&Removefilter=all
