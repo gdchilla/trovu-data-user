@@ -8,8 +8,8 @@ namespaces:
 - .us
 - de
 - .de
-- github: .
+- github: gdchilla
   name: my
-# defaultKeyword: b 
+defaultKeyword: b 
 language: de
 country: de
