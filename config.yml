@@ -3,7 +3,9 @@
 namespaces:
 - o
 - it
+- .it
 - en
+- .us
 - de
 - .de
 - github: .
