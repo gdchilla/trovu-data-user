@@ -9,4 +9,4 @@ examplekeyword 2:
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
-qo 1: https://quichotte-buch.de/shop/search?q=<query>
+qo 1: https://quichotte-buch.de/shop/search?titel=<titel>&mediaType=0
