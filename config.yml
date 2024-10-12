@@ -10,6 +10,6 @@ namespaces:
 - .de
 - github: gdchilla
   name: my
-defaultKeyword: qa 
+defaultKeyword: b 
 language: de
 country: de
